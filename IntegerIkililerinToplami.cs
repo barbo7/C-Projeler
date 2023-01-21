@@ -20,6 +20,8 @@ namespace ConsoleApp80
                     tek.Add(int.Parse(Console.ReadLine()));
                 else cift.Add(int.Parse(Console.ReadLine()));
             }
+            
+            Console.WriteLine("********");
 
             for(int i=0;i<n;i++)
             {

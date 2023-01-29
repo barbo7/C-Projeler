@@ -20,7 +20,6 @@ namespace WindowsFormsApp72
 {
     public partial class Form1 : Form
     {
-        // DLL İÇERİĞİ /*
         Formun loadında textBoxların visiblesini false yap. Registry oluştur dosya içinde dosya şeklinde ve bi şifresi olsun.
 button tıklaması ile şifre istiyor. şifre ynalışsa registry dosyalarını sil.
 şifre doğru ise button visible'sini true yap.
@@ -29,6 +28,7 @@ dll ile ortalama hesapla ve textBoxa yaz.
 button tıklaması ile veritabanına ekle.
 Button tıklaması ile rastgele bir kişinin bilgileirni textBoxlara yazdır.
 */
+        // DLL İÇERİĞİ 
         /*
          * public class Hesap
          * {
